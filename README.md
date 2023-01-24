@@ -1,14 +1,13 @@
-# Getting Started with Create React App
+# MemoTest con tematica del reciclaje 
+en este proyecto encontraran un pequeño memotest que contiene items asociados al reciclaje 
+Este proyecto esta realizado en REACT 18
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Eejecutar el proyecto 
 
-In the project directory, you can run:
+En la carpeta principal del proyecto deben 
 
 ### `npm start`
-
-Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
