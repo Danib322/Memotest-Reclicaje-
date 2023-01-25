@@ -10,9 +10,9 @@ fuera de esta carpeta pero en la misma ruta src se encuentra el `app.js` que con
 ## Ejecutar el proyecto 
 
 En la carpeta principal del proyecto deben  ejecutar el siguinete comando. es importante tener en cuenta que para que el proyecto funcione se debe tener previamente listo el ambiente de desarrollo. 
-### `npm install` carga las dependencias necesarias para ejecutar el proyecto.
-### `npm start` este comando arranacara el proyecto que por defecto se levanta en http://localhost:3000](http://localhost:3000) en tu navegador predeterminado.
-### ` ctrl+c` detiene l ejecucion del proyecto
+#### `npm install` carga las dependencias necesarias para ejecutar el proyecto.
+#### `npm start` este comando arranacara el proyecto que por defecto se levanta en http://localhost:3000](http://localhost:3000) en tu navegador predeterminado.
+#### ` ctrl+c` detiene l ejecucion del proyecto
 
 
 
