@@ -1,4 +1,6 @@
-# MemoTest con tematica del reciclaje 
+# MemoTest con tematica del reciclaje
+![image](https://user-images.githubusercontent.com/76258697/214716815-aaac162f-b4cc-457d-a05b-9e3be11e94a4.png)
+
 en este proyecto encontraran un pequeño memotest que contiene items asociados al reciclaje 
 Este proyecto esta realizado en REACT 18
 
