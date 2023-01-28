@@ -22,7 +22,11 @@ En la carpeta principal del proyecto deben  ejecutar el siguinetes comandos es i
 
 ### Fuentes de ayuda 
 https://reactjs.org/docs/getting-started.html
+### Donde deployar react gratuito
+https://www.netlify.com/
 
+video explicativo
+https://youtu.be/VWdRNLaNDQ8
 
 
 
